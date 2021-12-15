@@ -1,18 +1,20 @@
 # RockScissorPaper
-//////////////////////////////////////////////////////////////////\n
-Online game uses multi threading, implemented /w Java /w eclipse \n
-//////////////////////////////////////////////////////////////////\n
-/\n
-/\n
-Project done by 2more teammates.\n
+//////////////////////////////////////////////////////////////////
+Online game uses multi threading, implemented /w Java /w eclipse 
+//////////////////////////////////////////////////////////////////
 
-/\n
+Project done by 2more teammates. 
 
-/\n
-/\n
-/\n
-/\n
-/\n
+https://github.com/vivi108/java/tree/main/RockPaperScissors
+/
+
+/
+codes are same
+/
+
+/
+/
+/
 
 
 
