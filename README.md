@@ -1,6 +1,10 @@
 # RockScissorPaper
 //////////////////////////////////////////////////////////////////
+
 Online game uses multi threading, implemented /w Java /w eclipse 
+
+First time on github, uploaded file maybe not pretty.
+
 //////////////////////////////////////////////////////////////////
 
 Project done by 2more teammates. 
